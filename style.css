@@ -126,9 +126,9 @@ img{
     font-weight: 700;
     margin-top: 1rem;
     padding-bottom: .5rem;
-    /* background-image: linear-gradient(to left,#e466a9,#7d7cf9);
+    background-image: linear-gradient(to left,#e466a9,#7d7cf9);
     background-clip: text;
-    color: transparent; */
+    color: transparent;
 }
 
 .hero-description{
